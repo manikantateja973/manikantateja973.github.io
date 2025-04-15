@@ -1,4 +1,4 @@
-# Hi!!!
+## Hi!!!
 Welcome to my personal portfolio! I'm a graduate student at Illinois Tech and primarily interested in Systems and Machine Learning.
 
 ## About Me
