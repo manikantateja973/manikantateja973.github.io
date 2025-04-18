@@ -10,6 +10,7 @@ I have experience in Natural Language Processing, clound computing and systems.
 - Cloud Computing
 - Git
 - Linux
+- R
 
 ## Contact
 You can reach out to me at [LinkedIn](https://www.linkedin.com/in/manikanta-patamsetti/) or [GitHub](https://github.com/manikantateja973)
