@@ -1,12 +1,16 @@
 ---
-layout: page
-title: Projects
-permalink: /projects/
+title: My Projects
+description: Collection of technical implementations
 ---
 
-# Projects
+## Featured Projects
 
-Here are some of the projects I've worked on:
+{% raw %}{% for project in site.projects limit:3 %}
+<div class="project-card">
+  <h3>{{ HeirGym }}</h3>
+  <p>{{ RA Project}}</p>
+  <a href="{{ https://github.com/grc-iit/HeirGym/tree/master/heirgym
+ }}">View Details</a>
+</div>
+{% endfor %}{% endraw %}
 
-- ** HeirGym: ** Projects i worked on during my RA, technologies used, and [Soon :)](https://github.com/grc-iit/HeirGym/tree/master/heirgym)
-- ** Zero food : ** Description, technologies used, and []()

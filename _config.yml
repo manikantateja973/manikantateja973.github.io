@@ -2,4 +2,12 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Mani's portfolio
-description: Tech geek, AI & Systems Enthusiast :) 
+description: Tech geek, AI & Systems Enthusiast :)
+defaults:
+  - scope:
+      path: "projects"
+      type: pages 
+    values:
+      layout: project 
+      show_sidebar: true
+      toc: false
