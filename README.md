@@ -5,7 +5,7 @@ Welcome to my personal portfolio! I'm a graduate student at Illinois Tech and pr
 I have experience in Natural Language Processing, clound computing and systems.
 
 ## Projects
-[Projects](/projects/)
+[Projects](/Projects/project/)
 ## Skills
 - Python, C, C++
 - PyTorch
