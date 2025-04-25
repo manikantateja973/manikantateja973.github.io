@@ -11,9 +11,12 @@ description: Collection of technical implementations
   <a href="https://github.com/grc-iit/HeirGym/tree/master/heirgym
  ">View Details</a>
 
-  <h1> Next project </h1>
-  <p> Project 2 <p>
-  <a href = "">View Details</a>
+  <h1> ML-based optimization for Adios applications </h1>
+  <p>  A system that mitigates I/O bottlenecks in cloud environment using python to optimize the cache-eviction and pre-fetching policies for HPC applications. Created a data pipeline to do ETL and deployment of applications on cloud to determine the data placement policies <p>
+  <a href = "https://github.com/manikantateja973/ML-based-optimization-for-an-Adios-application">View Details</a>
+    
+  <h1> Information Extraction from Invoices </h1>
+  <p> A prototype to detect and extract personally identifiable information on billing invoices in multiple languages using semantic methods </p>
 
 </div>
 
