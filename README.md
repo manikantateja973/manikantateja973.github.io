@@ -7,12 +7,12 @@ I have always been fascinated with math and logic, so naturally this led me to c
 ## Projects
 [Projects](/Projects/project.md)
 ## Skills
-- Python, C, C++
+- Python, C, C++, R
 - PyTorch
 - Cloud Computing
 - Git
 - Linux
-- R
+- Docker
 
 ## Contact
 You can reach out to me at [LinkedIn](https://www.linkedin.com/in/manikanta-patamsetti/) or [GitHub](https://github.com/manikantateja973)
