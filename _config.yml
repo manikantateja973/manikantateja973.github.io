@@ -2,7 +2,6 @@ remote_theme: pages-themes/cayman@v0.2.0
 plugins:
 - jekyll-remote-theme
 title: Manikanta Teja Patamsetti
-name: Manikanta Teja Patamsetti
 description: Tech geek, AI & Systems Enthusiast :)
 defaults:
   - scope:
